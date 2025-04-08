@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+.Title {
+  color: red;
+}
 :root {
   --background: #ffffff;
   --foreground: #171717;
