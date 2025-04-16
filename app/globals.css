@@ -14,6 +14,16 @@
   color: white;
 }
 
+.button2 {
+  background-color: blue;
+  color: white;
+}
+
+.button3 {
+  background-color: green;
+  color: white;
+}
+
 .text {
   color: red;
 }
