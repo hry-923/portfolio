@@ -14,6 +14,7 @@ export default function Home() {
       <h3>내 이름은 리쿠야</h3>
       <h3>여름에 한국으로 유학 가</h3>
       <h3>열심히 할게</h3>
+      <img src="/images/fox.jpg" alt="狐" width="300" />
       </body>
     </div>
   );
